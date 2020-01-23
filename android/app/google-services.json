@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457693588468",
+    "firebase_url": "https://onepress-sudagoras.firebaseio.com",
+    "project_id": "onepress-sudagoras",
+    "storage_bucket": "onepress-sudagoras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457693588468:android:224974e18b990b74ab67a1",
+        "android_client_info": {
+          "package_name": "com.sudagoras.onepress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457693588468-dtltlctvt84mar836tacpv0jmfo9gon6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofjZxKOjoH7kQ5990wbc5tn5qYVX24Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457693588468-dtltlctvt84mar836tacpv0jmfo9gon6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
